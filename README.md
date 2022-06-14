@@ -9,8 +9,9 @@ Camilo Rodríguez Velázquez C-412 @camilorod4312 (Github)
 
 # Instrucciones
 
-Se desea a través de algoritmos basados en
-el procesamiento de imágenes de mamografía
-digital, investigar si la incorporación de 
-algoritmos que utilizan aprendizaje de máquina
-tendrán una mejora del resultado obtenido. 
+A partir del Dataset INbreast, que contiene más de
+400 imágenes de mamografías digitales, se desea 
+verificar la eficiencia de los modelos de aprendizaje de máquinas para mejorar el contraste de las imágenes médicas comparado con el contraste basado en wavelets. Como resultado se desea comprobar que tan buenos son los modelos basados en aprendizaje de máquina para la detección y el diagnóstico de lesiones mamarias
+
+
+
